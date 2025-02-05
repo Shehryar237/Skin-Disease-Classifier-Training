@@ -1,8 +1,7 @@
 # Skin Disease Classifier Training
-
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Code Size](https://img.shields.io/github/languages/code-size/Shehryar237/Skin-Disease-Classifier-Training)
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
 
 This repository contains a Jupyter Notebook for training a machine learning classifier to detect skin diseases. The project involves:
 
