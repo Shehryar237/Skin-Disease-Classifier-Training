@@ -3,6 +3,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Code Size](https://img.shields.io/github/languages/code-size/Shehryar237/Skin-Disease-Classifier-Training)
 
+Application repo: https://github.com/Shehryar237/FinalYearProject_GUI
+
 This repository contains a Jupyter Notebook for training a machine learning classifier to detect skin diseases. The project involves:
 
 - **Image preprocessing**
