@@ -1,4 +1,4 @@
-Skin Disease Classifier Training
+#Skin Disease Classifier Training
 This repository contains a Jupyter Notebook for training a machine learning classifier to detect skin diseases. The project involves image preprocessing, data augmentation, model training, and evaluation using deep learning techniques.
 
 
