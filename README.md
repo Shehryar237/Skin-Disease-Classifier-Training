@@ -31,4 +31,3 @@ bash
 >jupyter notebook
 ```
 
-![alt text](92fe2f92-be8d-4f5e-a58b-b1e2b1cf66d3.jpeg)
