@@ -1,7 +1,7 @@
 # Skin Disease Classifier Training
 
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Code Size](https://github.com/Shehryar237/Skin-Disease-Classifier-Training)
+![Code Size](https://img.shields.io/github/languages/code-size/Shehryar237/Skin-Disease-Classifier-Training)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
 
 This repository contains a Jupyter Notebook for training a machine learning classifier to detect skin diseases. The project involves:
@@ -25,9 +25,9 @@ git clone https://github.com/yourusername/SkinDiseaseClassifier.git
 cd SkinDiseaseClassifier
 Run the Notebook
 bash
-Copy
-Edit
-jupyter notebook
+>git clone https://github.com/yourusername/SkinDiseaseClassifier.git
+>cd SkinDiseaseClassifier
+>jupyter notebook
 
 Results
 Model accuracy and loss graphs
